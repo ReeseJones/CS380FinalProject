@@ -25,12 +25,13 @@
 *NavMeshGenerator/Library/unity default resources
 *NavMeshGenerator/Library/unity editor resources
 
+*NavMeshGenerator/obj
+*NavMeshGenerator/Temp
+
 *.meta
 *.log
 *.pch
 *.bin
-*.obj
-*.Temp
 *.suo
 *.user
 *.pidb
